@@ -1,0 +1,103 @@
+.log {
+  position: absolute;       
+  left: 55%;     
+  top: 110px;
+}
+
+
+
+.logo {
+    position: absolute;  
+   top: 10px;         
+    right: 30px;     
+    }
+
+
+
+
+.bar {
+   display: flex;
+   gap: 50px;
+   
+}
+
+.navbar { 
+    background-color: ;
+    padding: 30px;
+    font-size: 20px;
+    justify-content: center; 
+    margin-left: 1x;
+    margin-right: 1x;
+}
+
+
+
+.bar li {
+    display: inline;   /* li in line  */
+
+}
+.navbar a {
+    color: black;
+    text-decoration:none;
+  
+}
+
+.pag
+{
+   column-count: 3;
+   gap:100px;
+   text-align: justify;
+   font-size:20px; 
+}
+
+.debin {
+  background-color: #778899;
+  padding: 60px;
+  color: #F5FFFA ;
+  font-size:20px; 
+ font-family: "Times New Roman", Times, serif;
+}
+
+
+.title{
+
+   font-size: 80px ;
+   font-family: revonza ;
+   font-weight: 100 ;
+}
+
+.subt{
+
+   font-size:30px;
+   font-family:sans-serif ;
+   margin-left:50px;
+}
+
+
+.sub1{
+
+   font-size:50px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
